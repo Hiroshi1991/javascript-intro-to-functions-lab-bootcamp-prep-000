@@ -8,6 +8,6 @@ function whisper(string) {
 
 function sayHiToGrandma(string) {
   if  
-  string is toLowerCase
-}
+  string === toLowerCase
+  return "I cant hear you!"
 }
